@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to right top, #d16ba5, #ee7690, #40c9db, #c35207, #311b63, #b81a3f, #cbe183, #b4b418, #9ef4af, #0b5f2a, #71fadb, #c6257b);
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+font-size: 80px; 
+ color: #311b63;   
+}
+
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+img {
+    max-width: 100%;
+    width: 500px;
+    border-radius:10px;
+    border: #0b5f2a 15px solid;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+font-size: 45px;
+text-transform: capitalize;
+
+}
+
+h3 {
+}
